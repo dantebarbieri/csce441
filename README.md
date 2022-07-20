@@ -1,4 +1,5 @@
 # CSCE 441 Computer Graphics
+
 CSCE 441 Computer Graphics at Texas A&amp;M University (TAMU) with Dr. Nima Kalantari
 
 ## Getting Started
@@ -14,6 +15,9 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/pulchroxloom/csce441/main/
 It also has a live website: https://pulchroxloom.github.io/csce441-opengl-tutorial/
 
 ## Assignments
+
+All of the below repositories are private. It would be Academic Dishonesty were I to publish them.
+
 1. [Assignment 1 - Paint Application](https://github.com/pulchroxloom/csce441-assignment-01)
 2. [Assignment 2 - 3D Transformations](https://github.com/pulchroxloom/csce441-assignment-02)
 3. [Assignment 3 - Rasterization](https://github.com/pulchroxloom/csce441-assignment-03)
