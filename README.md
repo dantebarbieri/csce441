@@ -9,7 +9,7 @@ There is a tutorial repository that goes over the basics of the course: https://
 
 Run this command where you want to install the `GLFW` libraries to. This can be your Documents folder, as is used in the tutorial.
 ```sh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/pulchroxloom/csce441/main/install_graphics.sh?token=GHSAT0AAAAAABWXTA7FSSXQWZ5XBGKYUA5GYWYIITA)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/pulchroxloom/csce441/main/install_graphics.sh)"
 ```
 
 It also has a live website: https://pulchroxloom.github.io/csce441-opengl-tutorial/
